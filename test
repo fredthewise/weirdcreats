@@ -1,0 +1,611 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+
+<!-- JQuery -->
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="style.css" />
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+<title>
+		Weirdest creatures on earth!</title>
+</head>
+
+<body>
+
+
+
+
+
+<div id="container">
+
+
+
+
+
+
+
+
+
+		<div id="mainpic">
+        	<h1>Weird<span class="lightblue">Insects</span></h1>
+            <h2>Enjoy !</h2>
+        </div>
+
+
+
+
+
+
+
+			<ul class="nav nav-tabs">
+		    <li class="active"><a data-toggle="tab" href="#home">Home</a></li>
+		    <li><a data-toggle="tab" href="#menu1">Weird arachnids</a></li>
+		    <li><a data-toggle="tab" href="#menu2">Weird Crustaceans</a></li>
+		    <li><a data-toggle="tab" href="#menu3">Goals</a></li>
+		  </ul>
+
+
+
+
+  <div class="tab-content">
+    <div id="home" class="tab-pane fade in active">
+			<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+				 <a href="#" data-toggle="tooltip" title="If you are scared of spiders, Don't continue! :)">	<h2> Welcome to Weird creatures! </h2></a>
+					<p>&nbsp;</p>
+						<p>&nbsp;</p>
+
+
+							<div id="myCarousel" class="carousel slide" data-ride="carousel" >
+								<!-- Indicators -->
+								<ol class="carousel-indicators">
+									<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+									<li data-target="#myCarousel" data-slide-to="1"></li>
+									<li data-target="#myCarousel" data-slide-to="2"></li>
+									<li data-target="#myCarousel" data-slide-to="3"></li>
+									<li data-target="#myCarousel" data-slide-to="4"></li>
+								</ol>
+
+								<!-- Wrapper for slides -->
+								<div class="carousel-inner" role="listbox">
+									<div class="item active">
+										<img src="images/caro1.jpg" alt="Chania">
+									</div>
+
+									<div class="item">
+										<img src="images/caro2.jpg" alt="Chania">
+									</div>
+
+									<div class="item">
+										<img src="images/caro3.jpg" alt="Flower">
+									</div>
+
+									<div class="item">
+										<img src="images/caro4.jpg" alt="Flower">
+									</div>
+
+									<div class="item">
+										<img src="images/caro5.jpg" alt="Flower">
+									</div>
+								</div>
+
+								<!-- Left and right controls -->
+								<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+									<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+									<span class="sr-only">Previous</span>
+								</a>
+								<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+									<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+									<span class="sr-only">Next</span>
+								</a>
+							</div>
+
+
+
+			        	<p>
+									<p>&nbsp;</p>
+									<p>&nbsp;</p>
+										<p>&nbsp;</p>
+											There are many great and wonderful creatures on our little blue ball we call planet.
+												<p>&nbsp;</p> I have chosen 20 of them for this task.
+												<p>&nbsp;</p>	May the gods be with us.
+
+								</p>
+								<p>&nbsp;</p>
+									<p>&nbsp;</p>
+
+								<h2> What are the arachnids? </h2>
+			        	<p>&nbsp;</p>
+			           	<p>&nbsp;</p>
+
+			        	<p>
+
+									Warning! If you are arachnophobic you may not want to see this list,
+									 but I really suggest that you do. You may find that these creatures are
+									 more diverse and fascinating than they are creepy. Spiders have never ceased
+									 to amaze me; they are among the most abundant predators in the world and have
+									 adapted to almost any imaginable habitat except for the sea, giving rise to countless
+									 species many of which remain unknown to science. If people would stop to watch spiders
+									 instead of simply squashing them on sight,
+									 I’m sure they would be amazed constantly. This list is only a very small selection of
+									  bizarre spiders from around the world.
+
+								</p>
+								<p>&nbsp;</p>
+			           	<p>&nbsp;</p>
+										<p>Here is a video of a cute spider!</p>
+									<p>&nbsp;</p>
+				           	<p>&nbsp;</p>
+								<div class="container">
+								  <h2>Look at this cute spider</h2>
+								  <!-- Trigger the modal with a button -->
+								  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">View video</button>
+
+								  <!-- Modal -->
+								  <div class="modal fade" id="myModal" role="dialog">
+								    <div class="modal-dialog">
+
+								      <!-- Modal content-->
+								      <div class="modal-content">
+								        <div class="modal-header">
+								          <button type="button" class="close" data-dismiss="modal">&times;</button>
+								          <h4 class="modal-title">Peeww</h4>
+								        </div>
+								        <div class="modal-body">
+								        <iframe width="560" height="315" src="https://www.youtube.com/embed/DsGvT2DYJMc" frameborder="0" allowfullscreen></iframe>
+								        </div>
+								        <div class="modal-footer">
+								          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+								        </div>
+								      </div>
+
+								    </div>
+								  </div>
+
+								</div>
+
+			        	<p>&nbsp;</p>
+			        	<p>&nbsp;</p>
+								<h2> What are the crustaceans? </h2>
+								<p>&nbsp;</p>
+									<p>&nbsp;</p>
+
+								<p>
+
+									Everyone is pretty well acquainted with crustaceans: arthropods
+									who dominate the seas as heavily as their insect sisters rule the land. But the familiar crabs, lobsters, and shrimp are
+									only a few examples of this order’s vastness and incredibly varied diversity. Crustaceans can be found in virtually every
+									 aquatic environment on earth, from
+									 the freezing Arctic to hostile toxic springs, and include a dizzying array of predators,
+									  scavengers, herbivores, and parasites.
+
+								</p>
+
+								<p>&nbsp;</p>
+								<p>&nbsp;</p>
+			<p>&nbsp;</p>
+
+    </div>
+    <div id="menu1" class="tab-pane fade">
+			<h2>Top 10 weirdest arachnids!  </h2>
+			<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<table border=1 height=500> <h2>Bird dung crab spider  </h2>
+				<tr>
+				<td>10</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/arc10.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>The magnificent golden tortoise beetle�Charidotella sexpunctata�
+				is commonly found in eastern North America and measures five to seven
+				 millimeters in length. The beetle has an extraordinary golden hue but it
+				 can change its color as well�transforming its outer covering so it
+				 becomes transparent. This color change reveals the rest of the beetle
+				 underneath, which is black with red spots, like a ladybug. Once these
+				 beetles are collected and removed from their natural habitats, they quickly
+				 lose their color, turning mud brown. This is because they lose their liquid
+				 layer, which is formed by dew on the leaves they live on. This liquid layer
+				 gives the illusion of a golden color.</p></td>
+				</tr>
+
+				</table>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+
+				<table border=1 height=500> <h2>Tiger Beetle</h2>
+				<tr>
+				<td>9</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/arc9.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>Native to Australia is the super fast species of tiger beetle�Cicindela hudsoni�
+				which is the fastest animal on the planet in relative terms. The beetle reaches speeds of
+				up to 5.6 miles per hour or 2.5 meters per second. This is the equivalent of a human running
+				at 480 miles per hour! At full speed,
+				the beetle loses its sight so it has to run in small bursts when hunting prey.</p></td>
+				</tr>
+
+				</table>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+				<table border=1 height=500><h2>Asp Caterpillar</h2>
+				<tr>
+				<td>8</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/arc8.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>A species endemic to North America, the asp caterpillar�Megalopyge opercularis
+				�looks quite harmless. However, it should be treated with extreme caution as it has very
+				powerful venom and is one of the most toxic caterpillars in North America. At the end of
+				 the fluffy hairs lie sharp, poisonous spines which pierce the skin and can cause extreme
+				 allergic reactions such as inflammation,
+				blisters, headaches, nausea and breathing difficulties. These symptoms can last for days.</p></td>
+				</tr>
+
+				</table>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+				<table border=1 height=500> <h2>Thorn Bug</h2>
+				<tr>
+				<td>7</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/arc7.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>A species endemic to North America, the asp caterpillar�Megalopyge opercularis
+				�looks quite harmless. However, it should be treated with extreme caution as it has very
+				powerful venom and is one of the most toxic caterpillars in North America. At the end of
+				 the fluffy hairs lie sharp, poisonous spines which pierce the skin and can cause extreme
+				 allergic reactions such as inflammation,
+				blisters, headaches, nausea and breathing difficulties. These symptoms can last for days.</p></td>
+				</tr>
+
+				</table>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+				<table border=1 height=500><h2>Scorpionfly</h2>
+				<tr>
+				<td>6</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/arc6.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>The common scorpionfly�Panorpa communis�is native to western Europe and
+				feeds on dead or dying insects, nectar and rotting fruit. They have also been observed
+				stealing insects from spider�s webs.
+				The flies tend to grow to around 25 millimeters in length with a wingspan of 35 millimeters.
+				The back end that looks like a scorpion tale is actually the male fly�s over-sized genitals.
+				 The scorpionfly are known for their bizarre mating ritual where the female chooses
+				 its mate from the best gift that the males bring her. This is usually an insect or a
+				 mass of saliva. Although it looks pretty creepy, the scorpionfly and the �stinger� are totally harmless.</p></td>
+				</tr>
+
+				</table>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+				<table border=1 height=500> <h2>Tongue-Eating Louse</h2>
+				<tr>
+				<td>5</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/arc5.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>The tongue-eating louse�Cymothoa exigua�is one of the most disgusting
+				 parasites known to man. The louse is found in the Gulf of California and enters its host
+				 (the spotted rose snapper) through the fins. Several male lice enter the fish at once
+				 and then one of these will develop into a female. The female will then travel to the host�s
+				mouth where it attaches to the base of the tongue. The organ�s blood supply is cut off,
+				 causing it to die and detach.</p></td>
+				</tr>
+				</table>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+
+				<table border=1 height=500> <h2>Giraffe Weevil</h2>
+				<tr>
+				<td>4</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/arc4.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>This remarkable looking creature is the giraffe weevil
+				�Trachelophorus giraffa�which is native to the island of Madagascar.
+				 It was discovered in 2008 and grows to 25 millimeters in length. It
+				 has a black body with a red wing case. The bug gets its name from its
+				 extremely long neck that resembles a giraffe�s. Scientists believe that this is an adaptation
+				 for fighting and nest building. The neck of the male can be up to three times as long as female weevil�s.
+				 What is also interesting about the giraffe weevil is its egg-laying technique. The female will roll up a leaf,
+				 then lay one egg within it. It then cuts off the leaf roll from the remaining
+				leaf to prepare the egg for hatching. The leaf provides
+				 both protection and a food supply for the young weevils.</p></td>
+				</tr>
+
+
+				</table>
+
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+				<table border=1 height=500><h2>Cyanide Millipede</h2>
+				<tr>
+				<td>3</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/arc3.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>The Cyanide millipede�Harpaphe haydeniana�is the chemist of the arthropod world.
+				 This millipede produces hydrogen cyanide (HCN) to hunt prey and to protect itself against any threats.
+				 This lethal substance has proved very effective and as a result of this adaptation, the millipede has very
+				 few natural predators.Storing HCN is extremely complex. If it is stored at room temperature, it could harm
+				 the millipede. So instead of storing this substance, the cyanide millipede stores two other chemicals,
+				 (mandelonitrile and benzoyl cyanide) in various segments of its body. When it needs to release the cyanide,
+				 chambers open and the different chemicals mix. The gas is ejected from millions of pores around the body at
+				 its prey or in defense against a predator.
+				 The millipede produces up to 0.6 milligrams of HCN, which can kill mice,
+				 predatory beetles and stun larger predators.</p></td>
+				</tr>
+
+
+				</table>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+
+				<table border=1 height=500><h2>Giant Water Bug</h2>
+				<tr>
+				<td>2</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/arc2.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>Giant water bugs�Kirkaldyia deyrolli�are mostly found in East Asia,
+				 Australia and the Americas. These bugs are some of the largest in the world
+				 (measuring up to fifteen centimeters long) and hunt small fish and amphibians.
+				 They are also known to consume snakes and turtles. They wait at the bottom of
+				 freshwater rivers and lakes for their prey. When a potential meal comes by, the
+				 giant water bug injects powerful digestive fluid into it so that the insides
+				of the prey turn to liquid for easier ingestion. The bug has one of the most
+				 painful bites in the insect world.</p></td>
+				</tr>
+
+
+				</table>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+				<table border=1 height=500><h2>Assassin Bug</h2>
+				<tr>
+				<td>1</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/arc1.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>The assassin bug�Reduviidae�has an awesome hunting technique in which
+				it captures and consumes spiders by acting as their prey. It enters the unsuspecting
+				arachnid�s web and starts to pluck the strings to mimic a bug or a fly. The spider
+				then leaves its hiding place to retrieve its food. When it gets close, the assassin
+				 bug plunges its long, sharp snout into the creature�releasing a deadly venom which
+				 paralyzes it. This venom also starts to digest the spider so the assassin bug can
+				 drink the fluid inside�a process called extra-oral digestion (the giant water bug
+				 feeds in the same way). The bug�s behavior is known as aggressive mimicry. After
+				 feeding, the assassin bug wears the victim�s body as a sort of armor. It also places dead bugs
+				on its back to confuse and scare potential predators. In the photo above, there are
+				over twenty ants atop the creature.</p></td>
+				</tr>
+
+
+				</table>
+    </div>
+    <div id="menu2" class="tab-pane fade">
+			<h2>Top 10 weirdest Crustaceans!  </h2>
+			<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<table border=1 height=500> <h2>Gribbles </h2>
+				<tr>
+				<td>10</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/c10.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>Trees don’t sound like the typical diet of an ocean dweller, but enough
+					 timber washes out to sea that several marine animals depend on it as a food source.
+					 Isopods of the family Limnoriidae are an example, having evolved to feed exclusively on
+					 submerged wood. They’re more commonly known as “gribbles,” an adorable name for something
+					 that could once doom a vessel. The little sea-termites are almost as destructive as the famous
+					 “shipworms.”Gribbles have enjoyed a new surge of attention in recent months. An enzyme produced during
+					 their feeding process is exceptionally effective in turning wood
+					into simple sugars—a process that could provide an efficient source of renewable biofuel if we could
+					learn to replicate it.</p></td>
+				</tr>
+
+				</table>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+
+				<table border=1 height=500> <h2>Pea Crabs</h2>
+				<tr>
+				<td>9</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/c9.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>While certain human parasites are known as “crabs,” the only literal crabs to exhibit parasitism are
+					the family Pinnotheridae. Tiny, soft-shelled, and delicate, these crabs spend their lives within the body cavities of
+					 clams, oysters, sea squirts, sea cucumbers, and several other creatures—where they consume a share of the food taken
+					 in by their host.Pea crabs are as edible, and often find themselves accidentally
+					steamed and served up in a clam. In some cases, they are deliberately harvested and prepared as their own dish.</p></td>
+				</tr>
+
+				</table>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+				<table border=1 height=500><h2>Skeleton Shrimp</h2>
+				<tr>
+				<td>8</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/c8.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>The Caprellidae are tiny marine predators that are often referred to as
+					“skeleton shrimp” for their thin, ghostly form. With their hooked legs, they anchor themselves firmly to coral,
+					sponges, seaweed, and an assortment of other surfaces. Then, they lie in ambush for their prey. Some species even
+					live up to the exaggerated
+					reputation of the mantis mating process. The females inject males with venom and consume them shortly after mating</p></td>
+				</tr>
+
+				</table>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+				<table border=1 height=500> <h2>Buoy Barnacles</h2>
+				<tr>
+				<td>7</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/c7.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>Once considered mollusks, it was Charles Darwin himself who first deduced that barnacles were,
+					 in fact, crustaceans. They simply traded mobility for an immobile, plankton-feeding lifestyle. Although,
+						at least one species has returned to a form of mobility; the buoy barnacle is the only barnacle able to
+						 secrete its own spongy “float” if it can
+					find no other suitable attachment point. In this case, it rides along the ocean’s currents like an exoskeletal Man O’ War.</p></td>
+				</tr>
+
+				</table>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+				<table border=1 height=500><h2>Remipedes</h2>
+				<tr>
+				<td>6</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/c6.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>With long, segmented bodies and dozens of paddling limbs, remipedes look just like swimming centipedes.
+					 They even possess a large set of “fangs,” which are speculated to deliver venom. Study of these elusive creatures
+					 isn’t easy, as they live deep underground in submarine caverns and saltwater aquifers. Their worldwide distribution
+					 suggests that this wasn’t always the case, but evolutionary competition likely drove these once common animals into
+						their dark recesses millions of years ago.In honor of their monstrous appearance, a recently identified Remipede
+					family has been dubbed the “Godzilliidae,” including the subfamilies Godzilliognomus, Godzillius, and Pleomothra.</p></td>
+				</tr>
+
+				</table>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+				<table border=1 height=500> <h2>Whale Lice</h2>
+				<tr>
+				<td>5</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/c5.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>“Whale lice,” or cyamids, are the largest known arthropods that spend their entire
+					lives on the body of a mammal. They cling to wrinkles, scar tissue, and barnacles on the surface
+					s of whales and porpoises. It sounds unpleasant, but the little creatures only feed upon dead skin
+					 and algae, causing no harm to their hosts. They are even responsible for the most distinctive
+					 feature of the Eubalaena genus of whales;
+					 the unique white patches on these animals are formed by tens of thousands of pale lice, clinging to the whale.</p></td>
+				</tr>
+				</table>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+
+				<table border=1 height=500> <h2>Pistol Shrimp</h2>
+				<tr>
+				<td>4</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/c4.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>The Alpheidae, or pistol shrimp, are best known for their astounding organic weaponry; by snapping
+					their one enlarged claw, they produce a collapsing cavitation bubble capable of paralyzing or killing small fish with
+					its intense burst of sound and pressure.Impressive as their biological stun guns may be, they aren’t the only thing that
+					sets pistol shrimp apart. A few species are the only crustaceans known to live in eusocial colonies—like ants or termites,
+					 with specialized reproductive “queens” and non-reproductive working castes. They live and feed entirely within sea sponges,
+						keeping them clear of harmful
+					parasites in the process. They’re the bees of the sea, with supersonic stings and symbiotic hives.</p></td>
+				</tr>
+
+
+				</table>
+
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+				<table border=1 height=500><h2>Anchor Worms</h2>
+				<tr>
+				<td>3</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/c3.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>A number of copepod crustacean families share the common name “anchor worm,” which should be your first
+					hint that we’re dealing with some serious oddballs. At maturity, these parasites lose any resemblance to an arthropod.
+					They molt into blind and limbless tubes of tissue. They can be found attached to fish or even their fellow invertebrates.
+					Some anchor worms are bloodsuckers. They send “roots” deeper into the host’s body and turn a brilliant red. Some more
+					 horrific varieties embed themselves in the eyeballs of fish and consume vitreous jelly. A few bizarre species have a
+						mouth on the end of a flexible, elephant-like trunk, which is held outside the host’s body to steadily graze.
+					These sweep over the same small patch of the host for their entire lives.</p></td>
+				</tr>
+
+
+				</table>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+
+				<table border=1 height=500><h2>Pram Bug</h2>
+				<tr>
+				<td>2</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/c2.jpg"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>Pram bugs are a group of deep-sea hunters that are often compared to the movie “Alien,” both for their
+					 eerily elongated heads and their gruesome lifestyle. When the time comes to rear her young, the female will hunt down
+					 a gelatinous filter-feeder (distantly related to us vertebrate) and carve its body into a hollow tube. She employs
+					 this mutilated corpse as a mobile nursery, using her many paddles to steer it through the water and keep her eggs
+					 oxygenated. She will regularly pull prey inside the body with her,
+					 tearing it apart so her young can share the meal.</p></td>
+				</tr>
+
+
+				</table>
+				<p>&nbsp;</p>
+					<p>&nbsp;</p>
+				<table border=1 height=500><h2>A Parasite’s Parasites</h2>
+				<tr>
+				<td>1</td>
+				</tr>
+				<tr>
+				<td colspan=2><img src="images/c1.png"  style="width:304px;height:228px;"></td>
+				<td colspan=2><p>The parasitic barnacle, Sacculina, has been featured in Listverse articles before, but we’ll need to
+					recap before we really talk about our next crustacean. Sacculina is barely identifiable as an animal in its mature
+					 form. I was even misidentified as a fungus in early texts. After discarding 90% of her body, the female grows as
+					 little more than a webbing of tissue throughout her crab host, which is castrated and duped into raising the parasite’s
+						eggs. If the host happens to be male, Sacculina will manipulate its hormone levels until it thinks and acts like a
+						 mother.Before it can pull of this changeling routine, the Sacculina needs to find a mate of her own. When she is
+						 finished growing, she develops a large sack of tissue on the outside of the crab’s body, called an externa. Tiny,
+							larval males of her species will inject themselves into this exposed blob,
+					fertilizing her from within for the remainder of their lives.</p></td>
+				</tr>
+
+
+				</table>
+
+    </div>
+    <div id="menu3" class="tab-pane fade">
+      <h3>What is our goal?</h3>
+      <p>Our mission is to raise awareness for the wonderful creatures on our little planet ,Which will make these tiny creatures more known to the public
+			and hopefully reduce the chance of them going extinct!</p>
+    </div>
+  </div>
+
+
+
+
+		<div id="content">
+
+
+
+
+      </div>
+   </div>
+
+	 <script>
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();
+});
+</script>
+</body>
+</html>
